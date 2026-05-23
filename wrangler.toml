@@ -1,4 +1,4 @@
-name = "ip-checkt"
+name = "ip-check"
 main = "worker.js"
 # Set this to today's date
 compatibility_date = "2026-05-23"
