@@ -1,5 +1,5 @@
 const CORS = true
-const BASE_URL = '/ipapi'
+const BASE_URL = '/'
 const TOKEN_ENABLED = false
 const TOKEN = 'your-token-here'
 
